@@ -5,8 +5,8 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
+- **Nombre completo**: Esteban Fernando Guaña Toapanta
+- **Carrera**: Ingeniería en Informatica
 - **Fecha de entrega**: _____________________________
 
 ---
